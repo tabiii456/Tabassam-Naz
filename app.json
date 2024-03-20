@@ -1,15 +1,15 @@
 {
-  "name": "suhail-md@1.2.8",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
+  "name": "Tabassam Naz@1.2.8",
+  "description": "I am Tʌɓʌssʌɱ ŋʌz Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://youtube.com/@tabiii456?si=yaF4HriEymkc5uQl",
   "logo": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
+  "keywords": ["whatsappbot", "Tʌɓʌssʌɱ ŋʌz", "Tabassam Naz bot", "Tʌɓʌssʌɱ ŋʌz", "tabiiiWhatsaooBot", "tabiiiWaBot","Tʌɓʌssʌɱ ŋʌz","Tabassam Naz Whatsapp Bot","multi device"],
+  "success_url": "/Tabassam/",
   "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "Tʌɓʌssʌɱ ŋʌz",
       "required" :true
     },   
      
@@ -26,8 +26,8 @@
     },
     "BOT_NAME": {
       "description": " NAME FOR BOT",
-      "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "required" :true,    
+      "value": "Tʌɓʌssʌɱ ŋʌz"
     }, 
     "IMAGE": {
       "description": "Image for bot",
@@ -91,11 +91,11 @@
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
-      "value": "."
+      "value": "!"
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "923350503308"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -123,7 +123,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "Tabassam",
       "required": false 
     },
     "PACK_AUTHER": {
